@@ -41,6 +41,6 @@ JavaScript: Enables interactivity and dynamic functionality, such as form valida
 Backend Technology: A server-side technology such as PHP or Node.js is utilized for handling data storage, retrieval, and business logic.
 7. Conclusion
 The Library Management System implemented using HTML, CSS, and JavaScript provides a robust solution for efficient library resource management. The combination of these technologies allows for an intuitive user interface, interactive features, and seamless data management. By automating various library tasks, the system enhances productivity, improves organization, and enhances the overall library experience for both librarians and patrons
-![](main/screenshots/Screenshot%20(67).png)
-![](main/screenshots/Screenshot%20(69).png)
-![](main/screenshots/Screenshot%20(70).png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
